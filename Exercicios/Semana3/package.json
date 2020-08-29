@@ -1,9 +1,18 @@
 {
+ ElinePimentels3
   "name": "Semana3",
   "version": "1.0.0",
   "description": "",
   "main": "exercicios-for.js",
   "dependencies": {
+
+  "name": "semana3",
+  "version": "1.0.0",
+  "description": "Nesta aula vamos tratar de mais conceitos *importantes* de lógica de programação com JavaScript. Procure ler com calma e testar livremente os exemplos para internalizar bem!",
+  "main": "exercicios-for.js",
+  "dependencies": {
+    "package": "^1.0.1",
+ master
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
