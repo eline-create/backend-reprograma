@@ -109,15 +109,23 @@ const baseClientes = {
   },
 } 
 
+// Função com nome - Significa que quer apenas com um parâmetro
+// Essa resolve com o IF
+// 1. Se na base de clientes você der um nome aleatório diferente da lista, (por isso a exclamação antes de base Clientes), coloca no 
+// console.log a mensagem de 1a vez.
+// else if visitas === 1, mais um console.log
+// else if visitas > 1, outra mensagem
+// Coloquei as mensagens entre acento grave(o da crase) e ${} para dizer o nome da pessoa
+
 
 function saudarCliente(nome) {
   if (!baseClientes[nome]){
-    console.log('Olá, é a primeira vez por aqui?')
+    console.log(`Olá, ${nome}! É a primeira vez por aqui?`)
       } else if(baseClientes[nome].visitas === 1){
-    console.log('Bem-vinda! Que bom que voltou!') 
+    console.log(`Bem-vinda, ${nome}! Que bom que voltou!`) 
 
   }else if(baseClientes[nome].visitas > 1){
-    console.log('Bem-vinda mais uma vez!')
+    console.log(`Bem-vinda mais uma vez, ${nome}!`)
   }
       
 }
