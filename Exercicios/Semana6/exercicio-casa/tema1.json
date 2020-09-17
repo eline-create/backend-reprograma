@@ -1,0 +1,135 @@
+    
+    [{
+        
+      "id": 1,
+      "curso": "Administração",
+      "area": "Humanas",
+      "duração em anos": 4
+        
+      },
+
+    {
+        
+      "id": 2,
+      "curso": "Pedagogia",
+      "area": "Humanas",
+      "duração em anos(média)": 4
+            
+      },
+
+    {
+        
+      "id": 3,
+      "curso": "Direito",
+      "area": "Humanas",
+      "duração em anos(média)": 5
+            
+      },
+
+    {
+        
+      "id": 4,
+      "curso": "Psicologia",
+      "area": "Humanas",
+      "duração em anos(média)": 5
+            
+      },
+
+    {
+        
+      "id": 5,
+      "curso": "Ciências Contábeis",
+      "area": "Humanas",
+      "duração em anos(média)": 4
+            
+      },
+    
+    {
+          
+      "id": 6,
+      "curso": "Física",
+      "area": "Exatas",
+      "duração em anos(média)": 4
+              
+        },
+  
+    {
+          
+      "id": 7,
+      "curso": "Ciência da Computação",
+      "area": "Exatas",
+      "duração em anos(média)": 4
+              
+      }, 
+     
+    {
+        
+      "id": 8,
+      "curso": "Engenharia Aeroespacial",
+      "area": "Exatas",
+      "duração em anos(média)": 5
+            
+      },
+
+    {
+        
+      "id": 9,
+      "curso": "Engenharia de ALimentos",
+      "area": "Exatas",
+      "duração em anos(média)": 5
+              
+      },
+
+    {
+        
+      "id": 10,
+      "curso": "Engenharia de Materiais",
+      "area": "Exatas",
+      "duração em anos(média)": 5
+            
+      },
+
+    {
+        
+      "id": 11,
+      "curso": "Medicina",
+      "area": "Saúde",
+      "duração em anos(média)": 6
+            
+      },
+
+    {
+        
+      "id": 12,
+      "curso": "Enfermagem",
+      "area": "Saúde",
+      "duração em anos(média)": 4.5
+            
+      },
+
+    {
+        
+      "id": 13,
+      "curso": "Farmácia",
+      "area": "Saúde",
+      "duração em anos(média)": 5
+            
+      },
+
+    {
+        
+      "id": 14,
+      "curso": "Nutrição",
+      "area": "Saúde",
+      "duração em anos(média)": 4
+            
+      },
+
+    {
+        
+      "id": 15,
+      "curso": "Fisioterapia",
+      "area": "Saúde",
+      "duração em anos(média)": 5
+            
+      }]

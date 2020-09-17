@@ -1,0 +1,109 @@
+[{
+        
+    "id": 1,
+    "name": "Onça-pintada",
+    "species": "Panthera onca",
+    "occurrence locations": ["Amazônia", "Pantanal", "Mata Atlântica", "Caatinga"]   
+
+    },
+
+    {
+        
+    "id": 2,
+    "name": "Lobo-guará",
+    "species": "Chrysocyon brachyurus",
+    "occurrence locations": ["Cerrado", "Pampas"]         
+    },
+
+    {
+        
+    "id": 3,
+    "name": "Panda-gigante",
+    "species": "Ailuropoda melanoleuca",
+    "occurrence locations": "Centro-sul da China"  
+
+    },
+
+    {
+        
+    "id": 4,
+    "name": "Baleia-fin",
+    "species": "Balaenoptera physalus",
+    "occurrence locations": "Oceano Pacífico - Sul" 
+
+    },
+
+    {
+        
+    "id": 5,
+    "name": "Arara-azul-de-lear",
+    "species": "Anodorhynchus leari",
+    "occurrence locations": "Caatinga/Interior da Bahia"  
+
+    },
+
+    {
+        
+    "id": 6,
+    "name": "Pinguim-africano",
+    "species": "Spheniscus demersus",
+    "occurrence locations": "Costa sul da África"   
+
+    },
+
+    {
+        
+    "id": 7,
+    "name": "Peixe-boi-marinho",
+    "species": "Trichecus manatus Linnaeus",
+    "occurrence locations": ["Alagoas", "Amapá"]   
+
+    },
+
+    {
+        
+    "id": 8,
+    "name": "Gorila-da-montanha",
+    "species": "Gorilla beringei beringe",
+    "occurrence locations": ["Uganda", "Ruanda", "República Democrática do Congo"] 
+
+    },
+
+    {
+        
+    "id": 9,
+    "name": "Condor-californiano",
+    "species": "Gymnogyps californianus",
+    "occurrence locations": ["México", "Estados Unidos"] 
+
+    },
+
+    {
+        
+    "id": 10,
+    "name": "Baleia-azul",
+    "species": "Balaenoptera musculus",
+    "occurrence locations": "Antártica" 
+
+    },
+
+    {
+        
+    "id": 11,
+    "name": "Baleia-azul",
+    "species": "Balaenoptera musculus",
+    "occurrence locations": "Antártica" 
+
+    },
+
+    {
+        
+    "id": 12,
+    "name": "Baleia-azul",
+    "species": "Balaenoptera musculus",
+    "occurrence locations": "Antártica" 
+
+    }]
+   
+
+

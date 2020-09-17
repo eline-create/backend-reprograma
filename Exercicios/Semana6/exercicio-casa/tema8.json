@@ -1,0 +1,113 @@
+[{
+        
+    "id": 1,
+    "name": "Dallas Cowboys",
+    "country": "Estados Unidos",
+    "type": "Futebol americano",
+    "annual billing(in dollars)": "16,3 bilhões"
+      
+    },
+
+    {
+        
+    "id": 2,
+    "name": "Manchester United",
+    "country": "Inglaterra",
+    "type": "Futebol",
+    "annual billing(in dollars)": "4,12 bilhões"
+      
+    },
+
+    {
+        
+    "id": 3,
+    "name": "Real Madrid",
+    "country": "Espanha",
+    "type": "Futebol",
+    "annual billing(in dollars)": "4,09 bilhões"
+
+    },
+
+    {
+        
+    "id": 4,
+    "name": "Barcelona",
+    "country": "Espanha",
+    "type": "Futebol",
+    "annual billing(in dollars)": "4,06 bilhões"
+      
+    },
+
+    {
+        
+    "id": 5,
+    "name": "New York Yankees",
+    "country": "Estados Unidos",
+    "type": "Beisibol",
+    "annual billing(in dollars)": "4 bilhões"
+      
+    },
+
+    {
+        
+    "id": 6,
+    "name": "New England Patriots",
+    "country": "Estados Unidos",
+    "type": "Futebol Americano",
+    "annual billing(in dollars)": "3,7 bilhões"
+      
+    },
+
+    {
+        
+    "id": 7,
+    "name": "New York Knicks",
+    "country": "Estados Unidos",
+    "type": "Basquete",
+    "annual billing(in dollars)": "3,6 bilhões"
+      
+    },
+
+    {
+        
+    "id": 8,
+    "name": "Los Angeles Lakers",
+    "country": "Estados Unidos",
+    "type": "Basquete",
+    "annual billing(in dollars)": "3,3 bilhões"
+      
+    },
+
+    {
+        
+    "id": 9,
+    "name": "New York Giants",
+    "country": "Estados Unidos",
+    "type": "Futebol Americano",
+    "annual billing(in dollars)": "3,3 bilhões"
+      
+    },
+
+    {
+        
+    "id": 10,
+    "name": "Golden State Warriors",
+    "country": "Estados Unidos",
+    "type": "Basquete",
+    "annual billing(in dollars)": "3,1 bilhões"
+      
+    },
+
+    {
+        
+    "id": 11,
+    "name": "Washington Redskins",
+    "country": "Estados Unidos",
+    "type": "Futebol Americano",
+    "annual billing(in dollars)": "3,1 bilhões"
+      
+    }]
+
+
+
+    

@@ -1,0 +1,120 @@
+[{
+        
+    "id": 1,
+    "name": "Coco Bambu",
+    "cuisine": "Brasileiro",
+    "endereço": "Rua Padre Carapuceiro -  Shopping Recife",
+    "preço médio(R$)": 120
+      
+    },
+
+    {
+        
+    "id": 2,
+    "name": "Restaurante Leite",
+    "cuisine": "Internacional",
+    "endereço": "Praça Joaquim Nabuco, 147 - Graças",
+    "preço médio(R$)": 80
+      
+    },
+
+    {
+        
+    "id": 3,
+    "name": "Filipe Uma Casa Portuguesa",
+    "cuisine": "Português",
+    "endereço": "Rua Capitão Rebelinho, 527 - Boa Viagem",
+    "preço médio(R$)": 120
+      
+    },
+
+    {
+        
+    "id": 4,
+    "name": "Le Chef Bistrô",
+    "cuisine": "Francês",
+    "endereço": "Av. Eng. Domingos Ferreira, 1097 - Boa Viagem",
+    "preço médio(R$)": 80
+      
+    },
+
+    {
+        
+    "id": 4,
+    "name": "Ibis Kitchen Recife",
+    "cuisine": "Internacional",
+    "endereço": "Av. Domingos Ferreira, 683 - Boa Viagem",
+    "preço médio(R$)": 57
+      
+    },
+
+    {
+        
+    "id": 5,
+    "name": "Prima Deli Restaurante e Pizzaria",
+    "cuisine": "Italiano",
+    "endereço": "Av. Conselheiro Aguiar, 2217 - Boa Viagem",
+    "preço médio(R$)": 80
+      
+    },
+
+    {
+        
+    "id": 6,
+    "name": "Budhakan Cuisine",
+    "cuisine": "Indiano",
+    "endereço": "Rua do Atlântico, 147 - Boa Viagem",
+    "preço médio(R$)": 100
+      
+    },
+
+    {
+        
+    "id": 7,
+    "name": "Pobre Juan",
+    "cuisine": "Argentino",
+    "endereço": "Av. República do Líbano, 251 - Pina",
+    "preço médio(R$)": 130
+      
+    },
+
+    {
+        
+    "id": 8,
+    "name": "Haus Lajetop & Beergarden",
+    "cuisine": "Brasileiro",
+    "endereço": "Av. Herculano Bandeira, 513. Galeria Joana D'Arc - Pina",
+    "preço médio(R$)": 50
+      
+    },
+
+    {
+        
+    "id": 9,
+    "name": "Bode do Nô",
+    "cuisine": "Brasileiro",
+    "endereço": "Rua Dr. João Guilherme Pontes Sobrinho, 245 - Boa Viagem",
+    "preço médio(R$)": 100
+      
+    },
+
+    {
+        
+    "id": 10,
+    "name": "TBA Premium Steak",
+    "cuisine": "Churrascaria",
+    "endereço": "Rua Padre Carapuceiro, 777 - Boa Viagem",
+    "preço médio(R$)": 75
+      
+    }]
+
+    
+
+
+
+
+
+
+
+
+   
