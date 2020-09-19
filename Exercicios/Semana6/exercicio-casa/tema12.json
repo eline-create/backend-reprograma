@@ -1,0 +1,79 @@
+[   {        
+    "id": 1,
+    "name": "Fábio Assunção Pinto",
+    "dateBirth": "10/08/1971",
+    "age": 49,
+    "birthplace": "São Paulo, Brasil"          
+    },
+    {        
+    "id": 2,
+    "name": "Keanu Charles Reeves",
+    "dateBirth": "02/09/1964",
+    "age": 56,
+    "birthplace": "Beirute, Líbano"          
+    },
+    {        
+    "id": 3,
+    "name": "Idrissa Akuna Elba - Idris Elba",
+    "dateBirth": "06/09/1972",
+    "age": 48,
+    "birthplace": "Hackney, Londres"          
+    },
+    {        
+    "id": 4,
+    "name": "Chadwick Aaron Boseman",
+    "dateBirth": "06/09/1972",
+    "dateDeath": "28/08/2020",
+    "age": 43,
+    "birthplace": "Los Angeles, Estados Unidos"          
+    },
+    {        
+    "id": 5,
+    "name": "Elvis Aaron Presley",
+    "dateBirth": "08/01/1935",
+    "dateDeath": "16/08/1977",
+    "age": 42,
+    "birthplace": "Tupelo, Mississípi, EUA"          
+    },
+    {        
+    "id": 6,
+    "name": "Michael Bakari Jordan",
+    "dateBirth": "09/02/1987",
+    "age": 33,
+    "birthplace": "Santa Ana, Califórnia, EUA"          
+    },
+    {        
+    "id": 7,
+    "name": "Lupita Amondi Nyong'o",
+    "dateBirth": "01/03/1983",
+    "age": 37,
+    "birthplace": " Cidade do México, México"          
+    },
+    {        
+    "id": 8,
+    "name": "Jennifer Joanna Aniston",
+    "dateBirth": "11/02/1969",
+    "age": 51,
+    "birthplace": "Sherman Oaks, Los Angeles, Califórnia, EUA"          
+    },
+    {        
+    "id": 9,
+    "name": "Taís Bianca Gama de Araújo Ramos ",
+    "dateBirth": "25/11/1978",
+    "age": 41,
+    "birthplace": "Rio de Janeiro, Brasil"          
+    },
+    {        
+    "id": 10,
+    "name": "Mary Louise Streep",
+    "dateBirth": "22/06/1949",
+    "age": 71,
+    "birthplace": "Summit, Nova Jersey, EUA"          
+    }
+]
+
+
+
+
+
+    

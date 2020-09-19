@@ -1,0 +1,64 @@
+[{        
+    "id": 1,
+    "name": "Italian white alba truffle",
+    "value(US$)": 160.000,
+    "occurrenceLocations": ["Alba, Italy"]   
+    },
+    {        
+    "id": 2,
+    "name": "Almas caviar",
+    "value(US$)": 160.000,
+    "occurrenceLocations": ["Alba, Italy"] 
+    },
+    {        
+    "id": 3,
+    "name": "Yubari king melons",
+    "value(US$)": 22.872 ,
+    "occurrenceLocations": ["Ilha de Hokkaido, Japão"]   
+    },
+    {        
+    "id": 4,
+    "name": "Densuke black watermelon",
+    "value(US$)": 6.100,
+    "occurrenceLocations": ["Ilha de Hokkaido, Japão"] 
+    },
+    {        
+    "id": 5,
+    "name": "Pizza Royale 007",
+    "value(US$)": 6.100,
+    "occurrenceLocations": ["Escócia, Pizzaria do Domênico Crolla"]  
+    },
+    {        
+    "id": 6,
+    "name": "Samundari Khazana curry",
+    "value(US$)": 3.200,
+    "occurrenceLocations": ["Bombay Brassiere(Dubai, Londres, Houston)"]   
+    },
+    {        
+    "id": 7,
+    "name": "Wagyu ribeye steak",
+    "value(US$)": 2.800,
+    "occurrenceLocations": ["Hyogo, Japão"]   
+    },
+    {        
+    "id": 8,
+    "name": "Zillion dollar lobster frittata",
+    "value(US$)": 1.000,
+    "occurrenceLocations": ["Le Parker Meridien Hotel(Nova York)"]  
+    },
+    {        
+    "id": 9,
+    "name": "Westin Hotel Bagel",
+    "value(US$)": 1.000,
+    "occurrenceLocations": ["Westlin Hotel(Nova York)"]   
+    },
+    {        
+    "id": 10,
+    "name": "Mattake ou cogumelos Matsutake",
+    "value(US$)": 1.000,
+    "occurrenceLocations": ["Japão", "Coréia", "China", "Canadá", "Estados Unidos", "Suécia", "Finlândia"]
+    }
+]
+
+
+    

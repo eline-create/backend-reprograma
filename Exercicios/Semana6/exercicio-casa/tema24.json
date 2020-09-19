@@ -1,0 +1,61 @@
+[  {
+    "id": 1,
+    "name": "Bruce Wayne",
+    "secret id": "Batman",
+    "power": "Homem rico que detém muita tecnologia"
+    },
+    {
+    "id": 2,
+    "name": "Peter Parker",
+    "secret id": "Homem-Aranha",
+    "power": "Lança teias de aranha"
+    },
+    {
+    "id": 3,
+    "name": "Clark Kent",
+    "secret id": "Super Man",
+    "power": "Super força, visão de raio-x"
+    },
+    {
+    "id": 4,
+    "name": "Bruce Wayne",
+    "secret id": "Batman",
+    "power": "Homem rico que detém muita tecnologia"
+    },
+    {
+    "id": 5,
+    "name": "Tony Stark",
+    "secret id": "IronMan",
+    "power": "Homen rico que detém muita tecnologia"
+    },
+    {
+    "id": 6,
+    "name": "James Howlett/Logan",
+    "secret id": "Wolverine",
+    "power": "Esqueleto de adamantium"
+    },
+    {
+    "id": 7,
+    "name": "Barry Allen",
+    "secret id": "Flash",
+    "power": "Super velocidade"
+    },
+    {
+    "id": 8,
+    "name": "Robert Bruce Banner",
+    "secret id": "Hulk",
+    "power": "Força incalculável"
+    },
+    {
+    "id": 9,
+    "name": "Robert Bruce Banner",
+    "secret id": "Hulk",
+    "power": "Força incalculável"
+    },
+    {
+    "id": 10,
+    "name": "Princesa Diana de Themyscira",
+    "secret id": "Wonder Woman",
+    "power": "Força incalculável"
+    }
+]
